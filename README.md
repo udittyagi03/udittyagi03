@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Udit Tyagi</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="giphy.gif" width="100"/>
 </div>
 <a href="https://linktr.ee/udittyagi">
   <button style="border-radius: 5px; text-decoration: none;">
