@@ -3,7 +3,7 @@
 <i> <h1 style="color: yellow;">I am Udit Tyagi...</h1> </i>
 <a href="https://linktr.ee/udittyagi">
   <button style="border-radius: 5px; text-decoration: none;">
-    <img src="https://pcsoftwin.com/wp-content/uploads/2022/07/linktree-link-in-bio-creator.png" alt="" height="20px">
+    <img src="https://pcsoftwin.com/wp-content/uploads/2022/07/linktree-link-in-bio-creator.png" alt="" height="15px">
     Linktree 
   </button> </a>
 
