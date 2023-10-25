@@ -17,5 +17,5 @@
 <img src="https://komarev.com/ghpvc/?username=udittyagi03-github-username&style=flat-square&color=blue" alt="udittyagi03"/>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
