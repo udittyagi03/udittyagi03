@@ -4,11 +4,17 @@
 <div id="header" align="center">
   <img src="giphy.gif" width="100"/>
 </div>
-<a href="https://linktr.ee/udittyagi">
-  <button style="border-radius: 5px; text-decoration: none;">
-    <img src="https://pcsoftwin.com/wp-content/uploads/2022/07/linktree-link-in-bio-creator.png" alt="" height="15px">
-    Linktree 
-  </button> </a>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
