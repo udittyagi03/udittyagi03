@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFvNeN__segFA/profile-displaybackgroundimage-shrink_350_1400/0/1691472776664?e=1703721600&v=beta&t=JOcZcNurPRPpdWooIL1v1tyg80GLMPXZTsJc53Mdzz8" alt="Image" width="800" height="280">
-<h1 style="color: yellow;">I am Udit Tyagi</h1>
+<i> <h1 style="color: yellow;">I am Udit Tyagi</h1> </i>
 
 
 - 🔭 I’m currently working on ...
