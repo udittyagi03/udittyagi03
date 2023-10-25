@@ -14,7 +14,7 @@
   </a>
 </div>
  <div class="view" align="center" >
-<img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img  src="https://komarev.com/ghpvc/?udittyagi03=your-github-udittyagi03&style=flat-square&color=blue" alt=""/>
 </div>
 
 - 🔭 I’m currently working on ...
