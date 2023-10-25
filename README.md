@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFvNeN__segFA/profile-displaybackgroundimage-shrink_350_1400/0/1691472776664?e=1703721600&v=beta&t=JOcZcNurPRPpdWooIL1v1tyg80GLMPXZTsJc53Mdzz8" alt="Image" width="800" height="250">
 
-<i> <h1 style="color: yellow;">I am Udit Tyagi...</h1> </i>
+<h1 align="center">I'm Udit Tyagi</h1>
 <a href="https://linktr.ee/udittyagi">
   <button style="border-radius: 5px; text-decoration: none;">
     <img src="https://pcsoftwin.com/wp-content/uploads/2022/07/linktree-link-in-bio-creator.png" alt="" height="15px">
