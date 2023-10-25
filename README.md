@@ -43,5 +43,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=udittyagi03-github-username
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=udittyagi03-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
